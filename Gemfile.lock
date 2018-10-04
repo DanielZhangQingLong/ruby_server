@@ -1,12 +1,14 @@
 GEM
   remote: https://gems.ruby-china.com/
   specs:
+    eventmachine (1.2.7)
     http_parser.rb (0.5.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  eventmachine
   http_parser.rb (~> 0.5.3)
 
 BUNDLED WITH
